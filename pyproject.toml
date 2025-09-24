@@ -3,8 +3,8 @@ requires = ["hatchling>=1.21"]
 build-backend = "hatchling.build"
 
 [project]
-name = "stalin_sort"
-version = "1.0.0"
+name = "stalin-sort-python"
+version = "1.0.1"
 description = "A typed 'Stalin Sort' implementation with strict/decreasing/key options."
 readme = "README.md"
 license = { file = "LICENSE" }

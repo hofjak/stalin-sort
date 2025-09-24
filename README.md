@@ -35,7 +35,7 @@ Credit goes to [this repo](https://github.com/gustavo-depaula/stalin-sort) that 
 ## Installation
 
 ```bash
-pip install stalin_sort
+pip install stalin-sort-python
 ```
 
 ## Usage
@@ -89,6 +89,8 @@ pip install -e .[dev]
 ## Run Tests
 
 ```bash
+pytest
+# Or
 python -m pytest .\tests\
 ```
 
